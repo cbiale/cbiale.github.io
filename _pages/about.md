@@ -14,4 +14,4 @@ Soy profesor en la Universidad Nacional de Misiones. Mi investigación abarca ap
 
 29 Junio 2023:  El trabajo titulado *"Control de cultivos hortícolas con sensores y actuadores mediante una plataforma en la nube basada en contenedores"* fue aceptado para su presentación en el [CASE 2023](https://www.sase.com.ar/case/) en la categoría Reporte.
 
-15 Diciembre 2022: He presentado el Trabajo Final de Posgrado correspondiente a la Carrera de Especialización en Internet de las Cosas de la Universidad de Buenos Aires denominado *"Sistema de control de cultivos hortícolas"* bajo la direccióntema de control de cultivos hortícolas"* bajo la direcion decion del Dr. Ing. Ariel Lutenberg.
+15 Diciembre 2022: He presentado el Trabajo Final de Posgrado correspondiente a la Carrera de Especialización en Internet de las Cosas de la Universidad de Buenos Aires denominado *"Sistema de control de cultivos hortícolas"* bajo la direccióntema de control de cultivos hortícolas"* bajo la direcion del Dr. Ing. Ariel Lutenberg.
