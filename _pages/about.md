@@ -12,9 +12,9 @@ Soy profesor en la Universidad Nacional de Misiones. Mi investigación abarca ap
 
 ### Noticias
 
-23 de Agosto de 2023: He sido Jurado del Trabajo Final de la Carrera de Especialización en Internet de las Cosas de la Facultad de Ingeniería de la Universidad de Buenos Aires, presentado por la Lic. Cynthia Escobar, denominado *"Sistema de monitoreo remoto de apiarios"* [certificado](https://cbiale.github.io/files/Certificado - Esp Lic Claudio Omar Biale - Sistema de monitoreo remoto de apiarios.pdf).
+23 de Agosto de 2023: He sido Jurado del Trabajo Final de la Carrera de Especialización en Internet de las Cosas de la Facultad de Ingeniería de la Universidad de Buenos Aires, presentado por la Lic. Cynthia Escobar, denominado *"Sistema de monitoreo remoto de apiarios"* [certificado](https://cbiale.github.io/files/Sistema_de_monitoreo_remoto_de_apiarios.pdf).
 
-22 de Agosto de 2023: He sido Jurado del Trabajo Final de la Carrera de Especialización en Sistemas Embebidos de la Facultad de Ingeniería de la Universidad de Buenos Aires, presentado por el Ing. Jhonny Velasco Collazos, denominado *"Sistema de riego autónomo aplicado a la agricultura"* [certificado](https://cbiale.github.io/files/Certificado - Esp Lic Claudio Omar Biale - Sistema de riego autónomo aplicado a la agricultura.pdf).
+22 de Agosto de 2023: He sido Jurado del Trabajo Final de la Carrera de Especialización en Sistemas Embebidos de la Facultad de Ingeniería de la Universidad de Buenos Aires, presentado por el Ing. Jhonny Velasco Collazos, denominado *"Sistema de riego autónomo aplicado a la agricultura"* [certificado](https://cbiale.github.io/files/Sistema_de_riego_autónomo_aplicado_a_la_agricultura.pdf).
 
 29 de Junio de 2023: El trabajo titulado *"Control de cultivos hortícolas con sensores y actuadores mediante una plataforma en la nube basada en contenedores"* fue aceptado para su presentación en el [CASE 2023](https://www.sase.com.ar/case/) en la categoría Reporte.
 
