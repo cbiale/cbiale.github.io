@@ -12,6 +12,9 @@ main:
   - title: "Certificados"
     url: /certificados/    
 
+  - title: "Gestión"
+    url: /gestion/    
+
 #  - title: "Portfolio"
 #    url: /portfolio/
         
