@@ -16,7 +16,7 @@ main:
     url: /gestion/    
  
   - title: "Blog"
-    url: /posts/
+    url: /_posts/
 
 
 #  - title: "Portfolio"
