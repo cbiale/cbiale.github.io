@@ -14,6 +14,10 @@ main:
 
   - title: "Gestión"
     url: /gestion/    
+ 
+  - title: "Blog"
+    url: /posts/
+
 
 #  - title: "Portfolio"
 #    url: /portfolio/
