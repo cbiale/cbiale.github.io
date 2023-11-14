@@ -4,12 +4,9 @@ title: 'Qual o papel que desempenha o solo para a agricultura e qual a importân
 date: 2023-11-14
 permalink: /posts/2023/11/amostragem-de-solo/
 tags:
-  - cool posts
-  - category1
-  - category2
+  - Agricultura Orgánica
+  - Nutrición y Fertilización Orgánica
 ---
-
-# Qual o papel que desempenha o solo para a agricultura e qual a importância de se fazer uma amostragem de solo
 
 
 Manter a qualidade da água e a produtividade das plantas é um dos serviços prestados por um solo saudável. Os principais componentes da saúde do solo são a diversidade e a atividade dos microrganismos. A saúde do solo varia desde a produção agrícola até ao papel do solo na qualidade da água, nas alterações climáticas e na saúde humana.
