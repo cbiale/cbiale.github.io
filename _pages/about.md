@@ -12,7 +12,7 @@ Soy profesor en la Universidad Nacional de Misiones. Mi investigación abarca ap
 
 ### Noticias
 
-24 de abril de 2024: He participado como Director del Trabajo Final de la Carrera de Especialización en Internet de las Cosas de la Facultad de Ingeniería de la Universidad de Buenos Aires, que desarrolló el **Ing. José Severiche**, denominado *“Sistema de monitoreo de temperatura aplicado a la industria farmacéutica“* [certificado](https://cbiale.github.io/files/certificados/Sistema_de_monitoreo_de_temperatura_aplicado_a_la_industria_farmacéutica.pdf). Felicitaciones José :tada: !!!
+24 de abril de 2024:**¡Felicitaciones José!** He participado como Director del Trabajo Final de la Carrera de Especialización en Internet de las Cosas de la Facultad de Ingeniería de la Universidad de Buenos Aires, que desarrolló el Ing. José Severiche, denominado *“Sistema de monitoreo de temperatura aplicado a la industria farmacéutica“* [certificado](https://cbiale.github.io/files/certificados/Sistema_de_monitoreo_de_temperatura_aplicado_a_la_industria_farmacéutica.pdf).
 
 23 de abril de 2024: He sido Jurado del Trabajo Final de la Carrera de Especialización en Internet de las Cosas de la Facultad de Ingeniería de la Universidad de Buenos Aires, presentado por el Ing. Simón A. Rodríguez Alzuru, denominado
 *“Establecimiento de un pipeline de datos dentro de una arquitectura de data fabric para la gestión de datos de manufactura“* [certificado](https://cbiale.github.io/files/certificados/Establecimiento_de_un_pipeline_de_datos_dentro_de_una_arquitectura_de_data_fabric_para_la_gestión_de_datos_de_manufactura.pdf).
