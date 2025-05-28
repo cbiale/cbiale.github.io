@@ -39,15 +39,13 @@ Diciembre 2022: He presentado el Trabajo Final de Posgrado correspondiente a la 
 
 Septiembre de 2022: He participado en el Instituto de Altos Estudios Espaciales Mario Gulich de la Escuela de Primavera Edición 2022 *"Teledetección avanzada y sistemas espaciales"* [certificado](https://cbiale.github.io/files/certificados/gulich2022.pdf).
 
-### Estudiantes
-
-#### Actuales
+### Estudiantes actuales
 
 Especialización en Internet de las Cosas (UBA)
 
 - Ignacio José Dasso
 
-#### Pasados
+### Estudiantes pasados
 
 Especialización en Internet de las Cosas (UBA)
 
