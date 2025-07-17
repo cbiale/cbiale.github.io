@@ -12,6 +12,10 @@ Soy profesor en la Universidad Nacional de Misiones. Mi investigación abarca ap
 
 ### Noticias
 
+Junio 2025: He participado como Director del Trabajo Final de la Carrera de Especialización en Internet de las Cosas de la Facultad de Ingeniería de la Universidad de Buenos Aires, que desarrolló el Ing. Ignacio José Dasso, denominado *“Plataforma de integración y visualización de datos“*.
+
+Junio 2025: He sido Jurado del Trabajo Final de la Carrera de Especialización en Internet de las Cosas de la Facultad de Ingeniería de la Universidad de Buenos Aires, presentado por el Lic. Martin Anibal Lacheski, denominado *“Sistema de monitoreo y gestión remota del clima en invernaderos“*.
+
 Abril 2025: El trabajo titulado *"Gestión distribuida de datos para aplicaciones de IoT"* fue presentado en el Workshop de Investigadores en Ciencias de la Computación 2025.
 
 Abril 2025: He sido Jurado del Trabajo Final de la Carrera de Especialización en Internet de las Cosas de la Facultad de Ingeniería de la Universidad de Buenos Aires, presentado por el Ing. Jose Luis Perez Galindo, denominado *“Plataforma de monitoreo de rendimiento para computadoras de placa única basadas en Linux“*.
@@ -43,10 +47,11 @@ Septiembre de 2022: He participado en el Instituto de Altos Estudios Espaciales 
 
 Especialización en Internet de las Cosas (UBA)
 
-- Ignacio José Dasso
+- Jhonatan Juño Garcia
 
 ### Estudiantes pasados
 
 Especialización en Internet de las Cosas (UBA)
 
+- Ignacio José Dasso
 - José Severiche
