@@ -12,6 +12,8 @@ Soy profesor en la Universidad Nacional de Misiones. Mi investigación abarca ap
 
 ### Noticias
 
+Junio 2025: El trabajo titulado *"Hacia una comunicación unificada en IoT: una solución basada en middleware"* fue aceptado para su presentación en el [CASE 2025](https://case.ar/) en la categoría Foro Tecnológico.
+
 Junio 2025: He participado como Director del Trabajo Final de la Carrera de Especialización en Internet de las Cosas de la Facultad de Ingeniería de la Universidad de Buenos Aires, que desarrolló el Ing. Ignacio José Dasso, denominado *“Plataforma de integración y visualización de datos“*.
 
 Junio 2025: He sido Jurado del Trabajo Final de la Carrera de Especialización en Internet de las Cosas de la Facultad de Ingeniería de la Universidad de Buenos Aires, presentado por el Lic. Martin Anibal Lacheski, denominado *“Sistema de monitoreo y gestión remota del clima en invernaderos“*.
