@@ -12,8 +12,7 @@ Soy profesor en la Universidad Nacional de Misiones. Mi investigación abarca ap
 
 ### Noticias
 
-Noviembre 2025: He presentado el trabajo denominado *"Huerta IoT: Control de cultivos hortícolas"* en la asignatura *"Agricultura Digital"* dictada en los posgrados de la Facultad de Ingeniería de la Universidad de Buenos Aires [certificado](https://cbiale.github.io/files/presentaciones/FIUBA_Agricultura_Digital_2025). 
-
+Noviembre 2025: He presentado el trabajo denominado *"Huerta IoT: Control de cultivos hortícolas"* en la asignatura *"Agricultura Digital"* dictada en los posgrados de la Facultad de Ingeniería de la Universidad de Buenos Aires [pdf](https://cbiale.github.io/files/presentaciones/FIUBA_Agricultura_Digital_2025.pdf). 
 
 Octubre 2025: He sido Jurado del Trabajo Final de la Carrera de Especialización en Inteligencia Artificial de la Facultad de Ingeniería de la Universidad de Buenos Aires, presentado por el Ing. Federico Arias Suárez, denominado *“Sistema de segmentación y recomendación para clientes a crédito“*.
 
