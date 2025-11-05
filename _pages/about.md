@@ -12,7 +12,7 @@ Soy profesor en la Universidad Nacional de Misiones. Mi investigación abarca ap
 
 ### Noticias
 
-Noviembre 2025: He presentado el trabajo denominado *"Huerta IoT: Control de cultivos hortícolas"* en el curso de posgrado *"Inteligencia Artificial e Internet de las Cosas aplicadas al Agro."* dictado en la Facultad de Agronomía de la Universidad de Buenos Aires [pdf](FAUBA_Inteligencia_Artificial_e_Internet_de_las_Cosas_aplicadas_ al_Agro_2025.pdf). 
+Noviembre 2025: He presentado el trabajo denominado *"Huerta IoT: Control de cultivos hortícolas"* en el curso de posgrado *"Inteligencia Artificial e Internet de las Cosas aplicadas al Agro."* dictado en la Facultad de Agronomía de la Universidad de Buenos Aires [pdf]((https://cbiale.github.io/files/presentaciones/FAUBA_Inteligencia_Artificial_e_Internet_de_las_Cosas_aplicadas_ al_Agro_2025.pdf). 
 
 Noviembre 2025: He presentado el trabajo denominado *"Huerta IoT: Control de cultivos hortícolas"* en la asignatura *"Agricultura Digital"* dictada en el marco de los posgrados del Laboratorio de Sistemas Embebidos de la Facultad de Ingeniería de la Universidad de Buenos Aires [pdf](https://cbiale.github.io/files/presentaciones/FIUBA_Agricultura_Digital_2025.pdf). 
 
